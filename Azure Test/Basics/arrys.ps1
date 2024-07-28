@@ -6,6 +6,7 @@ $myArrys
 
 
 $myArrys1=@("Junaid","Zubair","Uzair")
+$myArrys1
 
 $myArrys.Count
 
