@@ -4,4 +4,15 @@ $myHasTable=@{
     Key3=$true
 }
 
-$myHastable.GetType()
+$myHasTable.GetType()
+
+$myHasTable.Keys
+
+$myHasTable."Apple"
+
+$myHasTable.Add('key4','Testing and Add functions')
+
+$myHasTable['Key5']= "Adding Key 5"
+$myHasTable.key6="Adding Key 6"
+
+$myHasTable
